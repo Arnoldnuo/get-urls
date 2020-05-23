@@ -30,7 +30,7 @@
 		"string"
 	],
 	"dependencies": {
-		"normalize-url": "^4.3.0",
+		"normalize-url": "5.0.0",
 		"url-regex": "^5.0.0"
 	},
 	"devDependencies": {
