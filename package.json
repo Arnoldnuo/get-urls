@@ -30,7 +30,7 @@
 		"string"
 	],
 	"dependencies": {
-		"normalize-url": "git+https://github.com/Arnoldnuo/normalize-url.git#v4.6.0",
+		"normalize-url": "git+https://github.com/Arnoldnuo/normalize-url.git#v4.7.0",
 		"url-regex": "^5.0.0"
 	},
 	"devDependencies": {
